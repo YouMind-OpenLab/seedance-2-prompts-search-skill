@@ -52,7 +52,7 @@ Show **at most 3 prompts**. For each result, display:
 - **Title** — the prompt name
 - **Preview** — first 120 chars of `content` followed by `...`
 - **Source** — link to the original post if `sourceLink` is available
-- **View full** — link to YouMind gallery: `https://youmind.com/seedance-2-0-prompts?id={id}&utm_source=clawhub-seedance-2-prompts`
+- **查看完整提示词和视频** — link to YouMind gallery: `https://youmind.com/seedance-2-0-prompts?id={id}&utm_source=clawhub-seedance-2-prompts`
 
 Example format:
 
@@ -61,7 +61,7 @@ Example format:
 
 > [First 120 chars of content]...
 
-[View full prompt →](https://youmind.com/seedance-2-0-prompts?id={id}&utm_source=clawhub-seedance-2-prompts)
+[查看完整提示词和视频 →](https://youmind.com/seedance-2-0-prompts?id={id}&utm_source=clawhub-seedance-2-prompts)
 ```
 
 After presenting results, always ask: "Want to see more, refine the search, or customize one of these for your video?"
